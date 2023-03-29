@@ -17,9 +17,11 @@ Next, the code:
 - Calculates and prints out the probability of the input image being a 0 or 1
 
 
-## Inputs
+## Training Data
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/117291117/228686954-27924909-038f-4235-80ef-f4235457f880.png">
 <img width="249" alt="image" src="https://user-images.githubusercontent.com/117291117/228687017-2f245b8c-35a1-4b6b-aebd-cf29e44e91d6.png">
+
+## Testing Data
 <img width="395" alt="image" src="https://user-images.githubusercontent.com/117291117/228687135-1035ad0a-83a2-4ee8-a217-33804e844bb4.png">
 
 
