@@ -18,13 +18,13 @@ Next, the code:
 
 
 ## Training Data
-<img width="249" alt="image" src="https://user-images.githubusercontent.com/117291117/228686954-27924909-038f-4235-80ef-f4235457f880.png">
-<img width="249" alt="image" src="https://user-images.githubusercontent.com/117291117/228687017-2f245b8c-35a1-4b6b-aebd-cf29e44e91d6.png">
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/117291117/228694252-33cb685d-7b71-42ce-886c-37205ed4e49e.png">
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/117291117/228694295-3b64b8d0-2fac-4165-8046-049b49d71282.png">
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/117291117/228694324-2f5d55ef-3c5a-49ad-b384-da48a7ca8a93.png">
+<img width="733" alt="image" src="https://user-images.githubusercontent.com/117291117/228694360-1ee49ba0-081b-4d04-bb60-b85ea09c0d92.png">
+
 
 ## Testing Data
-<img width="395" alt="image" src="https://user-images.githubusercontent.com/117291117/228687135-1035ad0a-83a2-4ee8-a217-33804e844bb4.png">
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/117291117/228693943-4bd80000-7124-4536-a31d-91cf8731b424.png">
 
-
-## Output
-<img width="316" alt="image" src="https://user-images.githubusercontent.com/117291117/228687218-7544f913-82d3-4059-b3de-cc8a80b479f3.png">
-
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/117291117/228694040-ccb323f3-a86c-49c2-b488-8801d95a91c1.png">
