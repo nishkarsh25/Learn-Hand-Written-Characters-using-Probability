@@ -12,7 +12,7 @@ This can be particularly useful if you're experiencing issues with GitHub's web 
 
 Given a set of 100 4x4 pixel images containing only 0s and 1s, let X = {X[1], X[2],...,X[16]} be the pool of all possible images. Let Y = {Y[1], Y[2],...,Y[16]} be a new input image. 
 
-This code seems to implement a Naive Bayes classifier to recognize handwritten digits 0 and 1. The code loads images of handwritten 0's and 1's, creates a binary matrix representation of each image, and counts the number of times each pixel is set to True (ink is present) for each digit. It then calculates the probability of each pixel being True given the digit is a 0 or 1, and uses these probabilities to classify a new input image as a 0 or 1.
+This code implements a Naive Bayes classifier to recognize handwritten digits 0 and 1. The code loads images of handwritten 0's and 1's, creates a binary matrix representation of each image, and counts the number of times each pixel is set to True (ink is present) for each digit. It then calculates the probability of each pixel being True given the digit is a 0 or 1, and uses these probabilities to classify a new input image as a 0 or 1.
 
 Specifically, the code:
 - Loads all the images of handwritten 0's and 1's from a specified directory 
