@@ -35,6 +35,6 @@ Next, the code:
 
 
 ## Testing Data
-<img width="802" alt="image" src="https://user-images.githubusercontent.com/117291117/228693943-4bd80000-7124-4536-a31d-91cf8731b424.png">
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/117291117/228693943-4bd80000-7124-4536-a31d-91cf8731b424.png">
 
-<img width="801" alt="image" src="https://user-images.githubusercontent.com/117291117/228694040-ccb323f3-a86c-49c2-b488-8801d95a91c1.png">
+<img width="734" alt="image" src="https://user-images.githubusercontent.com/117291117/228694040-ccb323f3-a86c-49c2-b488-8801d95a91c1.png">
